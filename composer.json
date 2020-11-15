@@ -1,7 +1,6 @@
 {
     "name": "alessiodh/postmanexporter",
     "description": "Will create automatic postman collection based on guzzlehttp calls",
-    "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
         {
