@@ -1,0 +1,23 @@
+{
+    "name": "alessiodh/postmanexporter",
+    "description": "Will create automatic postman collection based on guzzel calls",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "alessiodehouwer",
+            "email": "alessio.dh@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alessiodh\\PostmanExporter\\": "src"
+        }
+    }
+}
+
+
